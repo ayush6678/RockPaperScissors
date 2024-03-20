@@ -1,0 +1,9 @@
+.outline {
+    border: 1px solid black;
+    min-height: 80vh;
+}
+
+.scene{
+    margin: 20%;
+    border: 1px solid black;
+}
